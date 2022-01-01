@@ -10,12 +10,8 @@ Refactored Code
 Original Code
  ![image](https://user-images.githubusercontent.com/95973377/147857548-b6348e07-ef06-4af9-8bcf-f094f19a6d98.png)
 The below analysis shows that 2017 was a bull market and all stocks but one was up. In 2018 the market was much more bearish and all, but two stocks were down. Only one stock RUN saw better performance then they did in 2017. 
- 
- 
-
-
-
-
+ ![image](https://user-images.githubusercontent.com/95973377/147857557-b32b1069-d084-46a1-84c1-663231741b58.png)
+ ![image](https://user-images.githubusercontent.com/95973377/147857570-aa0802c6-c232-4f5b-b6f8-7ae4cb459936.png)
 Performance has been improved. In the original code each year took almost a second to run 
  
  
