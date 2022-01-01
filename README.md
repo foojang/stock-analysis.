@@ -6,7 +6,7 @@ The purpose of this project is to help Steve and his parents make informed decis
 Results 
 Below is the refactored code and the original code for the Stock Analysis. To help the macro run more efficiently we can reduce the number of times the macro needs to loop through the sheet to output the results. In the refactored code I added output arrays that will store data and now the loop will not have to run as many times to output he info. 
 Refactored Code
- 
+ ![image](https://user-images.githubusercontent.com/95973377/147857527-4ba08334-91b1-4be2-8e6b-94317da71902.png)
 Original Code
  
 The below analysis shows that 2017 was a bull market and all stocks but one was up. In 2018 the market was much more bearish and all, but two stocks were down. Only one stock RUN saw better performance then they did in 2017. 
