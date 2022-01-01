@@ -1,7 +1,7 @@
 # stock-analysis.
-Module 2 stock-analysis.
+**Module 2 stock-analysis.
 
-Project overview and purpose
+**Project overview and purpose
 
 The purpose of this project is to help Steve and his parents make informed decision on Green stocks they would like to invest in. Steve’s parents have decided they would like to be in better control of their investing and focus of environmentally friendly stocks. Steve asked us to put together a spreadsheet to examine the performance of 12 stocks performance for 2017 and 2018. The initial code runs effectively for the twelve stocks but we would like to have a quicker macro in place if Steve or his parents would like to examine more stocks or a longer period. We will refactor the code to have it run more efficiently. 
 
