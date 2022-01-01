@@ -8,7 +8,7 @@ Below is the refactored code and the original code for the Stock Analysis. To he
 Refactored Code
  ![image](https://user-images.githubusercontent.com/95973377/147857527-4ba08334-91b1-4be2-8e6b-94317da71902.png)
 Original Code
- 
+ ![image](https://user-images.githubusercontent.com/95973377/147857548-b6348e07-ef06-4af9-8bcf-f094f19a6d98.png)
 The below analysis shows that 2017 was a bull market and all stocks but one was up. In 2018 the market was much more bearish and all, but two stocks were down. Only one stock RUN saw better performance then they did in 2017. 
  
  
